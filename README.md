@@ -1,3 +1,3 @@
-# Hi! I'm Jeffrey, welcome to my website!
+# Jeffrey Tian | Website
 
 https://jeffreytian01.github.io/
