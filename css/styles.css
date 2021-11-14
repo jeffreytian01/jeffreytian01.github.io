@@ -1,6 +1,17 @@
-.head {
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+.header-pic{
     padding-top: 4rem;
     padding-bottom: 0;
+
+    background-image: url("../images/IMG_0081.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .about-section {
