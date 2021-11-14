@@ -3,15 +3,35 @@ body, html {
     margin: 0;
   }
 
-.header-pic{
+.header-pic {
     padding-top: 4rem;
     padding-bottom: 0;
 
-    background-image: url("../images/IMG_0081.JPG");
+    background-image: linear-gradient(to top, navy, white);
+    background-image: url("../images/earth.gif");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.header-text {
+    padding-top: 14rem;
+    padding-bottom: 16rem;
+}
+
+.header-text {
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#header-intro-1 {
+  font-size: 60px;
+}
+
+#header-intro-2 {
+  font-size: 50px;
 }
 
 .about-section {
