@@ -1,3 +1,3 @@
 # Jeffrey Tian | Website
 
-https://jeffreytian01.github.io/
+https://tianjeff.github.io/
