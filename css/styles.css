@@ -35,17 +35,70 @@ body, html {
   font-style: italic;
 }
 
+.arrow {
+  padding-bottom: 0px;
+}
+
 .about-section {
     padding-top: 4rem;
-    padding-bottom: 2rem;
+
+    font-family: "Optima sans-serif";
   }
 
-  .about-me {
+.about-me {
     padding-bottom: 2rem;
-  }
+}
 
 
-  .about-pic {
+.about-pic {
     width: 80%;
     height: 80%;
-  }
+}
+
+
+.contact-section {
+  padding: 3rem;
+  background-color: #212529;
+}
+
+.contact-section .contact-me{
+  color: white;
+  font-family: "Optima sans-serif";
+}
+
+.cards {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.contact-piece {
+  background-color: white;
+}
+
+.contact-section .card-body h4 {
+  font-size: 0.8rem;
+  font-family: 'Varela Round';
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+}
+
+.contact-section .card-body hr {
+  border-color:#51B4E2;
+  border-width: 0.25rem;
+  width: 3rem;
+}
+
+.contact-section .social {
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.contact-section .social a {
+  text-align: center;
+  height: 3rem;
+  width: 3rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 100%;
+  line-height: 3rem;
+  color: rgba(255, 255, 255, 0.3);
+}
