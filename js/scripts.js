@@ -1,7 +1,7 @@
 var count1 = 0;
 var count2 = 0;
 var txt = "I am Jeffrey Tian.";
-var txt2 = "Creator. Entrepreneur. Innovator."
+var txt2 = "Creator. Innovator. Entrepreneur."
 var speed = 60;
 var first = true;
 
